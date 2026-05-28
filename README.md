@@ -46,7 +46,7 @@ The dashboard was using the following tools and technologies
             -- This allows to a view of each specific product and their cost
 
 7: Screenshot
-What the dashboard looks like. - 
+What the dashboard looks like. - https://github.com/Israel-IG05/My-Power-BI-Projects/blob/main/World%20Wide%20Importer%20DashBoard%20Screenshot.png
 
       
 
